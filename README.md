@@ -12,7 +12,7 @@ A paper list of few-shot object detection.
 
 4. [CVPR 2021] [Semantic Relation Reasoning for Shot-Stable Few-Shot Object Detection](https://arxiv.org/abs/2103.01903)
 
-1. [arXiv 2102] [Should I Look at the Head or the Tail? Dual-awareness Attention for Few-Shot Object Detection](arXiv:2102.12152)
+1. [arXiv 2102] [Should I Look at the Head or the Tail? Dual-awareness Attention for Few-Shot Object Detection](https://arxiv.org/abs/2102.12152)
 
 2. [arXiv 2103] [Universal-Prototype Augmentation for Few-Shot Object Detection](https://arxiv.org/abs/2103.01077)
 
