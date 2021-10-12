@@ -1,4 +1,4 @@
-# Few-shot Object Detection
+# Few-shot Object Detection Papers
 
 A paper list for few-shot object detection.
 
